@@ -2,7 +2,7 @@
 
 Fully responsive.
 
-DEMO:
+DEMO: [Bootstrap Project](https://nikolamitic95.github.io/Bootstrap-Project/) 
 
 This page was created using:
 * Language: HTML5, CSS3
