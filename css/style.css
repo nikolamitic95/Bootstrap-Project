@@ -1,0 +1,111 @@
+.navbar {
+  background-color: #2c3e50;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9; }
+
+.student .back {
+  background-color: #18bc9c; }
+.student .back img {
+  padding-top: 120px; }
+
+.titles {
+  color: white; }
+  .titles h1 {
+    text-align: center;
+    font-size: 40px; }
+  .titles h3 {
+    text-align: center;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-bottom: 30px; }
+
+#first-title {
+  font-size: 50px; }
+
+.color {
+  color: black; }
+
+.star-line {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .star-line .line1 {
+    height: 4px;
+    width: 100px;
+    margin: 0 5px;
+    background-color: black; }
+  .star-line .stars {
+    color: black; }
+
+.pictures {
+  margin-top: 30px; }
+  .pictures img {
+    width: 100%;
+    padding-bottom: 30px; }
+
+.line {
+  height: 4px;
+  width: 100px;
+  margin: 0 5px;
+  background-color: white; }
+
+.fa-star {
+  color: white; }
+
+.about {
+  background-color: #18bc9c;
+  margin-top: 60px; }
+  .about p {
+    color: white;
+    padding-top: 5px; }
+  .about .about-par {
+    margin-top: 30px; }
+
+.text-center {
+  padding-bottom: 50px;
+  padding-top: 20px; }
+
+h1 {
+  text-align: center;
+  color: white;
+  padding-top: 50px; }
+
+.contact #form {
+  margin-bottom: 120px; }
+  .contact #form .form-control {
+    border-top: none;
+    border-left: none;
+    border-right: none; }
+.contact .btn {
+  background-color: #18bc9c;
+  color: white;
+  border: 2px solid #18bc9c; }
+.contact .btn:hover {
+  background-color: white;
+  color: #18bc9c;
+  border: 2px solid #18bc9c; }
+
+.btn1 {
+  border: 2px solid white; }
+
+.footer {
+  background-color: #2c3e50;
+  color: white;
+  padding-top: 30px; }
+  .footer .location {
+    margin-bottom: 0px; }
+  .footer #logos img {
+    width: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px; }
+  .footer #copy {
+    padding-bottom: 10px; }
+    .footer #copy p {
+      color: gray;
+      font-size: 12px; }
+
+/*# sourceMappingURL=style.css.map */
